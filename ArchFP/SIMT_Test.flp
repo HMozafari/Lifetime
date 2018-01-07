@@ -1,0 +1,1247 @@
+# FloorPlan output from ArchFP: UVA's Rapid Prototyping FloorPlanner.
+# Formatted for Input to HotSpot.
+# Line Format: <unit-name>\t<width>\t<height>\t<left-x>\t<bottom-y>
+# all dimensions are in meters
+# comment lines begin with a '#'
+# comments and empty lines are ignored
+
+# Start of Cluster1 Layout.
+# Total Cluster Stats: X=0 Y=0 W=9.77194mm H=9.77194mm Area=95.4907mm^2
+# Start of Grid1 Layout.  There are 6 components in a 3 by 2 grid.
+# Total Grid Stats: X=0 Y=4.71403 W=9.77194mm H=5.05791mm Area=49.4255mm^2
+# Start of Cluster2 Layout.
+# Total Cluster Stats: X=0 Y=4.71403 W=3.25731mm H=2.52895mm Area=8.23759mm^2
+# Start of Cluster3 Layout.
+# Total Cluster Stats: X=0.911042 Y=4.71403 W=2.34627mm H=2.52895mm Area=5.93361mm^2
+# Start of Cluster4 Layout.
+# Total Cluster Stats: X=0.911042 Y=6.90626 W=2.34627mm H=0.336726mm Area=0.79005mm^2
+HTC1	0.00234627	0.000336726	0.000911042	0.00690626
+# End of Cluster4 Layout.
+# Start of Cluster5 Layout.
+# Total Cluster Stats: X=0.911042 Y=6.73789 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+I_Cache1	0.00234627	0.000168363	0.000911042	0.00673789
+# End of Cluster5 Layout.
+# Start of Cluster6 Layout.
+# Total Cluster Stats: X=0.911042 Y=6.56953 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+Decoder1	0.00234627	0.000168363	0.000911042	0.00656953
+# End of Cluster6 Layout.
+# Start of Grid2 Layout.  There are 32 components in a 8 by 4 grid.
+# Total Grid Stats: X=0.911042 Y=4.88239 W=2.34627mm H=1.68714mm Area=3.95848mm^2
+# Start of Cluster7 Layout.
+# Total Cluster Stats: X=0.911042 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane1	0.000293284	0.000421784	0.000911042	0.00488239
+# End of Cluster7 Layout.
+# Start of Cluster8 Layout.
+# Total Cluster Stats: X=1.20433 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane2	0.000293284	0.000421784	0.00120433	0.00488239
+# End of Cluster8 Layout.
+# Start of Cluster9 Layout.
+# Total Cluster Stats: X=1.49761 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane3	0.000293284	0.000421784	0.00149761	0.00488239
+# End of Cluster9 Layout.
+# Start of Cluster10 Layout.
+# Total Cluster Stats: X=1.79089 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane4	0.000293284	0.000421784	0.00179089	0.00488239
+# End of Cluster10 Layout.
+# Start of Cluster11 Layout.
+# Total Cluster Stats: X=2.08418 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane5	0.000293284	0.000421784	0.00208418	0.00488239
+# End of Cluster11 Layout.
+# Start of Cluster12 Layout.
+# Total Cluster Stats: X=2.37746 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane6	0.000293284	0.000421784	0.00237746	0.00488239
+# End of Cluster12 Layout.
+# Start of Cluster13 Layout.
+# Total Cluster Stats: X=2.67074 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane7	0.000293284	0.000421784	0.00267074	0.00488239
+# End of Cluster13 Layout.
+# Start of Cluster14 Layout.
+# Total Cluster Stats: X=2.96403 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane8	0.000293284	0.000421784	0.00296403	0.00488239
+# End of Cluster14 Layout.
+# Start of Cluster15 Layout.
+# Total Cluster Stats: X=0.911042 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane9	0.000293284	0.000421784	0.000911042	0.00530418
+# End of Cluster15 Layout.
+# Start of Cluster16 Layout.
+# Total Cluster Stats: X=1.20433 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane10	0.000293284	0.000421784	0.00120433	0.00530418
+# End of Cluster16 Layout.
+# Start of Cluster17 Layout.
+# Total Cluster Stats: X=1.49761 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane11	0.000293284	0.000421784	0.00149761	0.00530418
+# End of Cluster17 Layout.
+# Start of Cluster18 Layout.
+# Total Cluster Stats: X=1.79089 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane12	0.000293284	0.000421784	0.00179089	0.00530418
+# End of Cluster18 Layout.
+# Start of Cluster19 Layout.
+# Total Cluster Stats: X=2.08418 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane13	0.000293284	0.000421784	0.00208418	0.00530418
+# End of Cluster19 Layout.
+# Start of Cluster20 Layout.
+# Total Cluster Stats: X=2.37746 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane14	0.000293284	0.000421784	0.00237746	0.00530418
+# End of Cluster20 Layout.
+# Start of Cluster21 Layout.
+# Total Cluster Stats: X=2.67074 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane15	0.000293284	0.000421784	0.00267074	0.00530418
+# End of Cluster21 Layout.
+# Start of Cluster22 Layout.
+# Total Cluster Stats: X=2.96403 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane16	0.000293284	0.000421784	0.00296403	0.00530418
+# End of Cluster22 Layout.
+# Start of Cluster23 Layout.
+# Total Cluster Stats: X=0.911042 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane17	0.000293284	0.000421784	0.000911042	0.00572596
+# End of Cluster23 Layout.
+# Start of Cluster24 Layout.
+# Total Cluster Stats: X=1.20433 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane18	0.000293284	0.000421784	0.00120433	0.00572596
+# End of Cluster24 Layout.
+# Start of Cluster25 Layout.
+# Total Cluster Stats: X=1.49761 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane19	0.000293284	0.000421784	0.00149761	0.00572596
+# End of Cluster25 Layout.
+# Start of Cluster26 Layout.
+# Total Cluster Stats: X=1.79089 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane20	0.000293284	0.000421784	0.00179089	0.00572596
+# End of Cluster26 Layout.
+# Start of Cluster27 Layout.
+# Total Cluster Stats: X=2.08418 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane21	0.000293284	0.000421784	0.00208418	0.00572596
+# End of Cluster27 Layout.
+# Start of Cluster28 Layout.
+# Total Cluster Stats: X=2.37746 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane22	0.000293284	0.000421784	0.00237746	0.00572596
+# End of Cluster28 Layout.
+# Start of Cluster29 Layout.
+# Total Cluster Stats: X=2.67074 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane23	0.000293284	0.000421784	0.00267074	0.00572596
+# End of Cluster29 Layout.
+# Start of Cluster30 Layout.
+# Total Cluster Stats: X=2.96403 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane24	0.000293284	0.000421784	0.00296403	0.00572596
+# End of Cluster30 Layout.
+# Start of Cluster31 Layout.
+# Total Cluster Stats: X=0.911042 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane25	0.000293284	0.000421784	0.000911042	0.00614775
+# End of Cluster31 Layout.
+# Start of Cluster32 Layout.
+# Total Cluster Stats: X=1.20433 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane26	0.000293284	0.000421784	0.00120433	0.00614775
+# End of Cluster32 Layout.
+# Start of Cluster33 Layout.
+# Total Cluster Stats: X=1.49761 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane27	0.000293284	0.000421784	0.00149761	0.00614775
+# End of Cluster33 Layout.
+# Start of Cluster34 Layout.
+# Total Cluster Stats: X=1.79089 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane28	0.000293284	0.000421784	0.00179089	0.00614775
+# End of Cluster34 Layout.
+# Start of Cluster35 Layout.
+# Total Cluster Stats: X=2.08418 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane29	0.000293284	0.000421784	0.00208418	0.00614775
+# End of Cluster35 Layout.
+# Start of Cluster36 Layout.
+# Total Cluster Stats: X=2.37746 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane30	0.000293284	0.000421784	0.00237746	0.00614775
+# End of Cluster36 Layout.
+# Start of Cluster37 Layout.
+# Total Cluster Stats: X=2.67074 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane31	0.000293284	0.000421784	0.00267074	0.00614775
+# End of Cluster37 Layout.
+# Start of Cluster38 Layout.
+# Total Cluster Stats: X=2.96403 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane32	0.000293284	0.000421784	0.00296403	0.00614775
+# End of Cluster38 Layout.
+# End of Grid2 Layout.
+# Start of Cluster39 Layout.
+# Total Cluster Stats: X=0.911042 Y=4.71403 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+Write_Back1	0.00234627	0.000168363	0.000911042	0.00471403
+# End of Cluster39 Layout.
+# End of Cluster3 Layout.
+# Start of Cluster40 Layout.
+# Total Cluster Stats: X=0 Y=4.71403 W=0.911042mm H=2.52895mm Area=2.30398mm^2
+# Start of Cluster41 Layout.
+# Total Cluster Stats: X=0 Y=6.37579 W=0.911042mm H=0.867194mm Area=0.79005mm^2
+HTC2	0.000911042	0.000867194	0	0.00637579
+# End of Cluster41 Layout.
+# Start of Cluster42 Layout.
+# Total Cluster Stats: X=0 Y=5.94219 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+I_Cache2	0.000911042	0.000433597	0	0.00594219
+# End of Cluster42 Layout.
+# Start of Cluster43 Layout.
+# Total Cluster Stats: X=0 Y=5.50859 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+Decoder2	0.000911042	0.000433597	0	0.00550859
+# End of Cluster43 Layout.
+# Start of Grid3 Layout.  There are 2 components in a 2 by 1 grid.
+# Total Grid Stats: X=0 Y=5.14763 W=0.911042mm H=0.360967mm Area=0.328856mm^2
+# Start of Cluster44 Layout.
+# Total Cluster Stats: X=0 Y=5.14763 W=0.455521mm H=0.360967mm Area=0.164428mm^2
+# Start of Cluster45 Layout.
+# Total Cluster Stats: X=0 Y=5.44386 W=0.455521mm H=0.0647336mm Area=0.0294875mm^2
+Reg1	0.000455521	6.47336e-05	0	0.00544386
+# End of Cluster45 Layout.
+# Start of Cluster46 Layout.
+# Total Cluster Stats: X=0 Y=5.24299 W=0.455521mm H=0.200869mm Area=0.0915mm^2
+ALU1	0.000455521	0.000200869	0	0.00524299
+# End of Cluster46 Layout.
+# Start of Cluster47 Layout.
+# Total Cluster Stats: X=0 Y=5.14763 W=0.455521mm H=0.0953647mm Area=0.0434406mm^2
+D_Cache1	0.000455521	9.53647e-05	0	0.00514763
+# End of Cluster47 Layout.
+# End of Cluster44 Layout.
+# Start of Cluster48 Layout.
+# Total Cluster Stats: X=0.455521 Y=5.14763 W=0.455521mm H=0.360967mm Area=0.164428mm^2
+# Start of Cluster49 Layout.
+# Total Cluster Stats: X=0.455521 Y=5.44386 W=0.455521mm H=0.0647336mm Area=0.0294875mm^2
+Reg2	0.000455521	6.47336e-05	0.000455521	0.00544386
+# End of Cluster49 Layout.
+# Start of Cluster50 Layout.
+# Total Cluster Stats: X=0.455521 Y=5.24299 W=0.455521mm H=0.200869mm Area=0.0915mm^2
+ALU2	0.000455521	0.000200869	0.000455521	0.00524299
+# End of Cluster50 Layout.
+# Start of Cluster51 Layout.
+# Total Cluster Stats: X=0.455521 Y=5.14763 W=0.455521mm H=0.0953647mm Area=0.0434406mm^2
+D_Cache2	0.000455521	9.53647e-05	0.000455521	0.00514763
+# End of Cluster51 Layout.
+# End of Cluster48 Layout.
+# End of Grid3 Layout.
+# Start of Cluster52 Layout.
+# Total Cluster Stats: X=0 Y=4.71403 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+Write_Back2	0.000911042	0.000433597	0	0.00471403
+# End of Cluster52 Layout.
+# End of Cluster40 Layout.
+# End of Cluster2 Layout.
+# Start of Cluster53 Layout.
+# Total Cluster Stats: X=3.25731 Y=4.71403 W=3.25731mm H=2.52895mm Area=8.23759mm^2
+# Start of Cluster54 Layout.
+# Total Cluster Stats: X=4.16835 Y=4.71403 W=2.34627mm H=2.52895mm Area=5.93361mm^2
+# Start of Cluster55 Layout.
+# Total Cluster Stats: X=4.16835 Y=6.90626 W=2.34627mm H=0.336726mm Area=0.79005mm^2
+HTC3	0.00234627	0.000336726	0.00416835	0.00690626
+# End of Cluster55 Layout.
+# Start of Cluster56 Layout.
+# Total Cluster Stats: X=4.16835 Y=6.73789 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+I_Cache3	0.00234627	0.000168363	0.00416835	0.00673789
+# End of Cluster56 Layout.
+# Start of Cluster57 Layout.
+# Total Cluster Stats: X=4.16835 Y=6.56953 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+Decoder3	0.00234627	0.000168363	0.00416835	0.00656953
+# End of Cluster57 Layout.
+# Start of Grid4 Layout.  There are 32 components in a 8 by 4 grid.
+# Total Grid Stats: X=4.16835 Y=4.88239 W=2.34627mm H=1.68714mm Area=3.95848mm^2
+# Start of Cluster58 Layout.
+# Total Cluster Stats: X=4.16835 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane33	0.000293284	0.000421784	0.00416835	0.00488239
+# End of Cluster58 Layout.
+# Start of Cluster59 Layout.
+# Total Cluster Stats: X=4.46164 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane34	0.000293284	0.000421784	0.00446164	0.00488239
+# End of Cluster59 Layout.
+# Start of Cluster60 Layout.
+# Total Cluster Stats: X=4.75492 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane35	0.000293284	0.000421784	0.00475492	0.00488239
+# End of Cluster60 Layout.
+# Start of Cluster61 Layout.
+# Total Cluster Stats: X=5.0482 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane36	0.000293284	0.000421784	0.0050482	0.00488239
+# End of Cluster61 Layout.
+# Start of Cluster62 Layout.
+# Total Cluster Stats: X=5.34149 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane37	0.000293284	0.000421784	0.00534149	0.00488239
+# End of Cluster62 Layout.
+# Start of Cluster63 Layout.
+# Total Cluster Stats: X=5.63477 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane38	0.000293284	0.000421784	0.00563477	0.00488239
+# End of Cluster63 Layout.
+# Start of Cluster64 Layout.
+# Total Cluster Stats: X=5.92806 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane39	0.000293284	0.000421784	0.00592806	0.00488239
+# End of Cluster64 Layout.
+# Start of Cluster65 Layout.
+# Total Cluster Stats: X=6.22134 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane40	0.000293284	0.000421784	0.00622134	0.00488239
+# End of Cluster65 Layout.
+# Start of Cluster66 Layout.
+# Total Cluster Stats: X=4.16835 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane41	0.000293284	0.000421784	0.00416835	0.00530418
+# End of Cluster66 Layout.
+# Start of Cluster67 Layout.
+# Total Cluster Stats: X=4.46164 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane42	0.000293284	0.000421784	0.00446164	0.00530418
+# End of Cluster67 Layout.
+# Start of Cluster68 Layout.
+# Total Cluster Stats: X=4.75492 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane43	0.000293284	0.000421784	0.00475492	0.00530418
+# End of Cluster68 Layout.
+# Start of Cluster69 Layout.
+# Total Cluster Stats: X=5.0482 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane44	0.000293284	0.000421784	0.0050482	0.00530418
+# End of Cluster69 Layout.
+# Start of Cluster70 Layout.
+# Total Cluster Stats: X=5.34149 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane45	0.000293284	0.000421784	0.00534149	0.00530418
+# End of Cluster70 Layout.
+# Start of Cluster71 Layout.
+# Total Cluster Stats: X=5.63477 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane46	0.000293284	0.000421784	0.00563477	0.00530418
+# End of Cluster71 Layout.
+# Start of Cluster72 Layout.
+# Total Cluster Stats: X=5.92806 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane47	0.000293284	0.000421784	0.00592806	0.00530418
+# End of Cluster72 Layout.
+# Start of Cluster73 Layout.
+# Total Cluster Stats: X=6.22134 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane48	0.000293284	0.000421784	0.00622134	0.00530418
+# End of Cluster73 Layout.
+# Start of Cluster74 Layout.
+# Total Cluster Stats: X=4.16835 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane49	0.000293284	0.000421784	0.00416835	0.00572596
+# End of Cluster74 Layout.
+# Start of Cluster75 Layout.
+# Total Cluster Stats: X=4.46164 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane50	0.000293284	0.000421784	0.00446164	0.00572596
+# End of Cluster75 Layout.
+# Start of Cluster76 Layout.
+# Total Cluster Stats: X=4.75492 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane51	0.000293284	0.000421784	0.00475492	0.00572596
+# End of Cluster76 Layout.
+# Start of Cluster77 Layout.
+# Total Cluster Stats: X=5.0482 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane52	0.000293284	0.000421784	0.0050482	0.00572596
+# End of Cluster77 Layout.
+# Start of Cluster78 Layout.
+# Total Cluster Stats: X=5.34149 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane53	0.000293284	0.000421784	0.00534149	0.00572596
+# End of Cluster78 Layout.
+# Start of Cluster79 Layout.
+# Total Cluster Stats: X=5.63477 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane54	0.000293284	0.000421784	0.00563477	0.00572596
+# End of Cluster79 Layout.
+# Start of Cluster80 Layout.
+# Total Cluster Stats: X=5.92806 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane55	0.000293284	0.000421784	0.00592806	0.00572596
+# End of Cluster80 Layout.
+# Start of Cluster81 Layout.
+# Total Cluster Stats: X=6.22134 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane56	0.000293284	0.000421784	0.00622134	0.00572596
+# End of Cluster81 Layout.
+# Start of Cluster82 Layout.
+# Total Cluster Stats: X=4.16835 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane57	0.000293284	0.000421784	0.00416835	0.00614775
+# End of Cluster82 Layout.
+# Start of Cluster83 Layout.
+# Total Cluster Stats: X=4.46164 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane58	0.000293284	0.000421784	0.00446164	0.00614775
+# End of Cluster83 Layout.
+# Start of Cluster84 Layout.
+# Total Cluster Stats: X=4.75492 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane59	0.000293284	0.000421784	0.00475492	0.00614775
+# End of Cluster84 Layout.
+# Start of Cluster85 Layout.
+# Total Cluster Stats: X=5.0482 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane60	0.000293284	0.000421784	0.0050482	0.00614775
+# End of Cluster85 Layout.
+# Start of Cluster86 Layout.
+# Total Cluster Stats: X=5.34149 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane61	0.000293284	0.000421784	0.00534149	0.00614775
+# End of Cluster86 Layout.
+# Start of Cluster87 Layout.
+# Total Cluster Stats: X=5.63477 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane62	0.000293284	0.000421784	0.00563477	0.00614775
+# End of Cluster87 Layout.
+# Start of Cluster88 Layout.
+# Total Cluster Stats: X=5.92806 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane63	0.000293284	0.000421784	0.00592806	0.00614775
+# End of Cluster88 Layout.
+# Start of Cluster89 Layout.
+# Total Cluster Stats: X=6.22134 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane64	0.000293284	0.000421784	0.00622134	0.00614775
+# End of Cluster89 Layout.
+# End of Grid4 Layout.
+# Start of Cluster90 Layout.
+# Total Cluster Stats: X=4.16835 Y=4.71403 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+Write_Back3	0.00234627	0.000168363	0.00416835	0.00471403
+# End of Cluster90 Layout.
+# End of Cluster54 Layout.
+# Start of Cluster91 Layout.
+# Total Cluster Stats: X=3.25731 Y=4.71403 W=0.911042mm H=2.52895mm Area=2.30398mm^2
+# Start of Cluster92 Layout.
+# Total Cluster Stats: X=3.25731 Y=6.37579 W=0.911042mm H=0.867194mm Area=0.79005mm^2
+HTC4	0.000911042	0.000867194	0.00325731	0.00637579
+# End of Cluster92 Layout.
+# Start of Cluster93 Layout.
+# Total Cluster Stats: X=3.25731 Y=5.94219 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+I_Cache4	0.000911042	0.000433597	0.00325731	0.00594219
+# End of Cluster93 Layout.
+# Start of Cluster94 Layout.
+# Total Cluster Stats: X=3.25731 Y=5.50859 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+Decoder4	0.000911042	0.000433597	0.00325731	0.00550859
+# End of Cluster94 Layout.
+# Start of Grid5 Layout.  There are 2 components in a 2 by 1 grid.
+# Total Grid Stats: X=3.25731 Y=5.14763 W=0.911042mm H=0.360967mm Area=0.328856mm^2
+# Start of Cluster95 Layout.
+# Total Cluster Stats: X=3.25731 Y=5.14763 W=0.455521mm H=0.360967mm Area=0.164428mm^2
+# Start of Cluster96 Layout.
+# Total Cluster Stats: X=3.25731 Y=5.44386 W=0.455521mm H=0.0647336mm Area=0.0294875mm^2
+Reg3	0.000455521	6.47336e-05	0.00325731	0.00544386
+# End of Cluster96 Layout.
+# Start of Cluster97 Layout.
+# Total Cluster Stats: X=3.25731 Y=5.24299 W=0.455521mm H=0.200869mm Area=0.0915mm^2
+ALU3	0.000455521	0.000200869	0.00325731	0.00524299
+# End of Cluster97 Layout.
+# Start of Cluster98 Layout.
+# Total Cluster Stats: X=3.25731 Y=5.14763 W=0.455521mm H=0.0953647mm Area=0.0434406mm^2
+D_Cache3	0.000455521	9.53647e-05	0.00325731	0.00514763
+# End of Cluster98 Layout.
+# End of Cluster95 Layout.
+# Start of Cluster99 Layout.
+# Total Cluster Stats: X=3.71283 Y=5.14763 W=0.455521mm H=0.360967mm Area=0.164428mm^2
+# Start of Cluster100 Layout.
+# Total Cluster Stats: X=3.71283 Y=5.44386 W=0.455521mm H=0.0647336mm Area=0.0294875mm^2
+Reg4	0.000455521	6.47336e-05	0.00371283	0.00544386
+# End of Cluster100 Layout.
+# Start of Cluster101 Layout.
+# Total Cluster Stats: X=3.71283 Y=5.24299 W=0.455521mm H=0.200869mm Area=0.0915mm^2
+ALU4	0.000455521	0.000200869	0.00371283	0.00524299
+# End of Cluster101 Layout.
+# Start of Cluster102 Layout.
+# Total Cluster Stats: X=3.71283 Y=5.14763 W=0.455521mm H=0.0953647mm Area=0.0434406mm^2
+D_Cache4	0.000455521	9.53647e-05	0.00371283	0.00514763
+# End of Cluster102 Layout.
+# End of Cluster99 Layout.
+# End of Grid5 Layout.
+# Start of Cluster103 Layout.
+# Total Cluster Stats: X=3.25731 Y=4.71403 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+Write_Back4	0.000911042	0.000433597	0.00325731	0.00471403
+# End of Cluster103 Layout.
+# End of Cluster91 Layout.
+# End of Cluster53 Layout.
+# Start of Cluster104 Layout.
+# Total Cluster Stats: X=6.51462 Y=4.71403 W=3.25731mm H=2.52895mm Area=8.23759mm^2
+# Start of Cluster105 Layout.
+# Total Cluster Stats: X=7.42567 Y=4.71403 W=2.34627mm H=2.52895mm Area=5.93361mm^2
+# Start of Cluster106 Layout.
+# Total Cluster Stats: X=7.42567 Y=6.90626 W=2.34627mm H=0.336726mm Area=0.79005mm^2
+HTC5	0.00234627	0.000336726	0.00742567	0.00690626
+# End of Cluster106 Layout.
+# Start of Cluster107 Layout.
+# Total Cluster Stats: X=7.42567 Y=6.73789 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+I_Cache5	0.00234627	0.000168363	0.00742567	0.00673789
+# End of Cluster107 Layout.
+# Start of Cluster108 Layout.
+# Total Cluster Stats: X=7.42567 Y=6.56953 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+Decoder5	0.00234627	0.000168363	0.00742567	0.00656953
+# End of Cluster108 Layout.
+# Start of Grid6 Layout.  There are 32 components in a 8 by 4 grid.
+# Total Grid Stats: X=7.42567 Y=4.88239 W=2.34627mm H=1.68714mm Area=3.95848mm^2
+# Start of Cluster109 Layout.
+# Total Cluster Stats: X=7.42567 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane65	0.000293284	0.000421784	0.00742567	0.00488239
+# End of Cluster109 Layout.
+# Start of Cluster110 Layout.
+# Total Cluster Stats: X=7.71895 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane66	0.000293284	0.000421784	0.00771895	0.00488239
+# End of Cluster110 Layout.
+# Start of Cluster111 Layout.
+# Total Cluster Stats: X=8.01223 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane67	0.000293284	0.000421784	0.00801223	0.00488239
+# End of Cluster111 Layout.
+# Start of Cluster112 Layout.
+# Total Cluster Stats: X=8.30552 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane68	0.000293284	0.000421784	0.00830552	0.00488239
+# End of Cluster112 Layout.
+# Start of Cluster113 Layout.
+# Total Cluster Stats: X=8.5988 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane69	0.000293284	0.000421784	0.0085988	0.00488239
+# End of Cluster113 Layout.
+# Start of Cluster114 Layout.
+# Total Cluster Stats: X=8.89208 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane70	0.000293284	0.000421784	0.00889208	0.00488239
+# End of Cluster114 Layout.
+# Start of Cluster115 Layout.
+# Total Cluster Stats: X=9.18537 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane71	0.000293284	0.000421784	0.00918537	0.00488239
+# End of Cluster115 Layout.
+# Start of Cluster116 Layout.
+# Total Cluster Stats: X=9.47865 Y=4.88239 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane72	0.000293284	0.000421784	0.00947865	0.00488239
+# End of Cluster116 Layout.
+# Start of Cluster117 Layout.
+# Total Cluster Stats: X=7.42567 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane73	0.000293284	0.000421784	0.00742567	0.00530418
+# End of Cluster117 Layout.
+# Start of Cluster118 Layout.
+# Total Cluster Stats: X=7.71895 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane74	0.000293284	0.000421784	0.00771895	0.00530418
+# End of Cluster118 Layout.
+# Start of Cluster119 Layout.
+# Total Cluster Stats: X=8.01223 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane75	0.000293284	0.000421784	0.00801223	0.00530418
+# End of Cluster119 Layout.
+# Start of Cluster120 Layout.
+# Total Cluster Stats: X=8.30552 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane76	0.000293284	0.000421784	0.00830552	0.00530418
+# End of Cluster120 Layout.
+# Start of Cluster121 Layout.
+# Total Cluster Stats: X=8.5988 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane77	0.000293284	0.000421784	0.0085988	0.00530418
+# End of Cluster121 Layout.
+# Start of Cluster122 Layout.
+# Total Cluster Stats: X=8.89208 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane78	0.000293284	0.000421784	0.00889208	0.00530418
+# End of Cluster122 Layout.
+# Start of Cluster123 Layout.
+# Total Cluster Stats: X=9.18537 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane79	0.000293284	0.000421784	0.00918537	0.00530418
+# End of Cluster123 Layout.
+# Start of Cluster124 Layout.
+# Total Cluster Stats: X=9.47865 Y=5.30418 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane80	0.000293284	0.000421784	0.00947865	0.00530418
+# End of Cluster124 Layout.
+# Start of Cluster125 Layout.
+# Total Cluster Stats: X=7.42567 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane81	0.000293284	0.000421784	0.00742567	0.00572596
+# End of Cluster125 Layout.
+# Start of Cluster126 Layout.
+# Total Cluster Stats: X=7.71895 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane82	0.000293284	0.000421784	0.00771895	0.00572596
+# End of Cluster126 Layout.
+# Start of Cluster127 Layout.
+# Total Cluster Stats: X=8.01223 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane83	0.000293284	0.000421784	0.00801223	0.00572596
+# End of Cluster127 Layout.
+# Start of Cluster128 Layout.
+# Total Cluster Stats: X=8.30552 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane84	0.000293284	0.000421784	0.00830552	0.00572596
+# End of Cluster128 Layout.
+# Start of Cluster129 Layout.
+# Total Cluster Stats: X=8.5988 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane85	0.000293284	0.000421784	0.0085988	0.00572596
+# End of Cluster129 Layout.
+# Start of Cluster130 Layout.
+# Total Cluster Stats: X=8.89208 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane86	0.000293284	0.000421784	0.00889208	0.00572596
+# End of Cluster130 Layout.
+# Start of Cluster131 Layout.
+# Total Cluster Stats: X=9.18537 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane87	0.000293284	0.000421784	0.00918537	0.00572596
+# End of Cluster131 Layout.
+# Start of Cluster132 Layout.
+# Total Cluster Stats: X=9.47865 Y=5.72596 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane88	0.000293284	0.000421784	0.00947865	0.00572596
+# End of Cluster132 Layout.
+# Start of Cluster133 Layout.
+# Total Cluster Stats: X=7.42567 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane89	0.000293284	0.000421784	0.00742567	0.00614775
+# End of Cluster133 Layout.
+# Start of Cluster134 Layout.
+# Total Cluster Stats: X=7.71895 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane90	0.000293284	0.000421784	0.00771895	0.00614775
+# End of Cluster134 Layout.
+# Start of Cluster135 Layout.
+# Total Cluster Stats: X=8.01223 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane91	0.000293284	0.000421784	0.00801223	0.00614775
+# End of Cluster135 Layout.
+# Start of Cluster136 Layout.
+# Total Cluster Stats: X=8.30552 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane92	0.000293284	0.000421784	0.00830552	0.00614775
+# End of Cluster136 Layout.
+# Start of Cluster137 Layout.
+# Total Cluster Stats: X=8.5988 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane93	0.000293284	0.000421784	0.0085988	0.00614775
+# End of Cluster137 Layout.
+# Start of Cluster138 Layout.
+# Total Cluster Stats: X=8.89208 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane94	0.000293284	0.000421784	0.00889208	0.00614775
+# End of Cluster138 Layout.
+# Start of Cluster139 Layout.
+# Total Cluster Stats: X=9.18537 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane95	0.000293284	0.000421784	0.00918537	0.00614775
+# End of Cluster139 Layout.
+# Start of Cluster140 Layout.
+# Total Cluster Stats: X=9.47865 Y=6.14775 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane96	0.000293284	0.000421784	0.00947865	0.00614775
+# End of Cluster140 Layout.
+# End of Grid6 Layout.
+# Start of Cluster141 Layout.
+# Total Cluster Stats: X=7.42567 Y=4.71403 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+Write_Back5	0.00234627	0.000168363	0.00742567	0.00471403
+# End of Cluster141 Layout.
+# End of Cluster105 Layout.
+# Start of Cluster142 Layout.
+# Total Cluster Stats: X=6.51462 Y=4.71403 W=0.911042mm H=2.52895mm Area=2.30398mm^2
+# Start of Cluster143 Layout.
+# Total Cluster Stats: X=6.51462 Y=6.37579 W=0.911042mm H=0.867194mm Area=0.79005mm^2
+HTC6	0.000911042	0.000867194	0.00651462	0.00637579
+# End of Cluster143 Layout.
+# Start of Cluster144 Layout.
+# Total Cluster Stats: X=6.51462 Y=5.94219 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+I_Cache6	0.000911042	0.000433597	0.00651462	0.00594219
+# End of Cluster144 Layout.
+# Start of Cluster145 Layout.
+# Total Cluster Stats: X=6.51462 Y=5.50859 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+Decoder6	0.000911042	0.000433597	0.00651462	0.00550859
+# End of Cluster145 Layout.
+# Start of Grid7 Layout.  There are 2 components in a 2 by 1 grid.
+# Total Grid Stats: X=6.51462 Y=5.14763 W=0.911042mm H=0.360967mm Area=0.328856mm^2
+# Start of Cluster146 Layout.
+# Total Cluster Stats: X=6.51462 Y=5.14763 W=0.455521mm H=0.360967mm Area=0.164428mm^2
+# Start of Cluster147 Layout.
+# Total Cluster Stats: X=6.51462 Y=5.44386 W=0.455521mm H=0.0647336mm Area=0.0294875mm^2
+Reg5	0.000455521	6.47336e-05	0.00651462	0.00544386
+# End of Cluster147 Layout.
+# Start of Cluster148 Layout.
+# Total Cluster Stats: X=6.51462 Y=5.24299 W=0.455521mm H=0.200869mm Area=0.0915mm^2
+ALU5	0.000455521	0.000200869	0.00651462	0.00524299
+# End of Cluster148 Layout.
+# Start of Cluster149 Layout.
+# Total Cluster Stats: X=6.51462 Y=5.14763 W=0.455521mm H=0.0953647mm Area=0.0434406mm^2
+D_Cache5	0.000455521	9.53647e-05	0.00651462	0.00514763
+# End of Cluster149 Layout.
+# End of Cluster146 Layout.
+# Start of Cluster150 Layout.
+# Total Cluster Stats: X=6.97014 Y=5.14763 W=0.455521mm H=0.360967mm Area=0.164428mm^2
+# Start of Cluster151 Layout.
+# Total Cluster Stats: X=6.97014 Y=5.44386 W=0.455521mm H=0.0647336mm Area=0.0294875mm^2
+Reg6	0.000455521	6.47336e-05	0.00697014	0.00544386
+# End of Cluster151 Layout.
+# Start of Cluster152 Layout.
+# Total Cluster Stats: X=6.97014 Y=5.24299 W=0.455521mm H=0.200869mm Area=0.0915mm^2
+ALU6	0.000455521	0.000200869	0.00697014	0.00524299
+# End of Cluster152 Layout.
+# Start of Cluster153 Layout.
+# Total Cluster Stats: X=6.97014 Y=5.14763 W=0.455521mm H=0.0953647mm Area=0.0434406mm^2
+D_Cache6	0.000455521	9.53647e-05	0.00697014	0.00514763
+# End of Cluster153 Layout.
+# End of Cluster150 Layout.
+# End of Grid7 Layout.
+# Start of Cluster154 Layout.
+# Total Cluster Stats: X=6.51462 Y=4.71403 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+Write_Back6	0.000911042	0.000433597	0.00651462	0.00471403
+# End of Cluster154 Layout.
+# End of Cluster142 Layout.
+# End of Cluster104 Layout.
+# Start of Cluster155 Layout.
+# Total Cluster Stats: X=0 Y=7.24298 W=3.25731mm H=2.52895mm Area=8.23759mm^2
+# Start of Cluster156 Layout.
+# Total Cluster Stats: X=0.911042 Y=7.24298 W=2.34627mm H=2.52895mm Area=5.93361mm^2
+# Start of Cluster157 Layout.
+# Total Cluster Stats: X=0.911042 Y=9.43521 W=2.34627mm H=0.336726mm Area=0.79005mm^2
+HTC7	0.00234627	0.000336726	0.000911042	0.00943521
+# End of Cluster157 Layout.
+# Start of Cluster158 Layout.
+# Total Cluster Stats: X=0.911042 Y=9.26685 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+I_Cache7	0.00234627	0.000168363	0.000911042	0.00926685
+# End of Cluster158 Layout.
+# Start of Cluster159 Layout.
+# Total Cluster Stats: X=0.911042 Y=9.09848 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+Decoder7	0.00234627	0.000168363	0.000911042	0.00909848
+# End of Cluster159 Layout.
+# Start of Grid8 Layout.  There are 32 components in a 8 by 4 grid.
+# Total Grid Stats: X=0.911042 Y=7.41135 W=2.34627mm H=1.68714mm Area=3.95848mm^2
+# Start of Cluster160 Layout.
+# Total Cluster Stats: X=0.911042 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane97	0.000293284	0.000421784	0.000911042	0.00741135
+# End of Cluster160 Layout.
+# Start of Cluster161 Layout.
+# Total Cluster Stats: X=1.20433 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane98	0.000293284	0.000421784	0.00120433	0.00741135
+# End of Cluster161 Layout.
+# Start of Cluster162 Layout.
+# Total Cluster Stats: X=1.49761 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane99	0.000293284	0.000421784	0.00149761	0.00741135
+# End of Cluster162 Layout.
+# Start of Cluster163 Layout.
+# Total Cluster Stats: X=1.79089 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane100	0.000293284	0.000421784	0.00179089	0.00741135
+# End of Cluster163 Layout.
+# Start of Cluster164 Layout.
+# Total Cluster Stats: X=2.08418 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane101	0.000293284	0.000421784	0.00208418	0.00741135
+# End of Cluster164 Layout.
+# Start of Cluster165 Layout.
+# Total Cluster Stats: X=2.37746 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane102	0.000293284	0.000421784	0.00237746	0.00741135
+# End of Cluster165 Layout.
+# Start of Cluster166 Layout.
+# Total Cluster Stats: X=2.67074 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane103	0.000293284	0.000421784	0.00267074	0.00741135
+# End of Cluster166 Layout.
+# Start of Cluster167 Layout.
+# Total Cluster Stats: X=2.96403 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane104	0.000293284	0.000421784	0.00296403	0.00741135
+# End of Cluster167 Layout.
+# Start of Cluster168 Layout.
+# Total Cluster Stats: X=0.911042 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane105	0.000293284	0.000421784	0.000911042	0.00783313
+# End of Cluster168 Layout.
+# Start of Cluster169 Layout.
+# Total Cluster Stats: X=1.20433 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane106	0.000293284	0.000421784	0.00120433	0.00783313
+# End of Cluster169 Layout.
+# Start of Cluster170 Layout.
+# Total Cluster Stats: X=1.49761 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane107	0.000293284	0.000421784	0.00149761	0.00783313
+# End of Cluster170 Layout.
+# Start of Cluster171 Layout.
+# Total Cluster Stats: X=1.79089 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane108	0.000293284	0.000421784	0.00179089	0.00783313
+# End of Cluster171 Layout.
+# Start of Cluster172 Layout.
+# Total Cluster Stats: X=2.08418 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane109	0.000293284	0.000421784	0.00208418	0.00783313
+# End of Cluster172 Layout.
+# Start of Cluster173 Layout.
+# Total Cluster Stats: X=2.37746 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane110	0.000293284	0.000421784	0.00237746	0.00783313
+# End of Cluster173 Layout.
+# Start of Cluster174 Layout.
+# Total Cluster Stats: X=2.67074 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane111	0.000293284	0.000421784	0.00267074	0.00783313
+# End of Cluster174 Layout.
+# Start of Cluster175 Layout.
+# Total Cluster Stats: X=2.96403 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane112	0.000293284	0.000421784	0.00296403	0.00783313
+# End of Cluster175 Layout.
+# Start of Cluster176 Layout.
+# Total Cluster Stats: X=0.911042 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane113	0.000293284	0.000421784	0.000911042	0.00825491
+# End of Cluster176 Layout.
+# Start of Cluster177 Layout.
+# Total Cluster Stats: X=1.20433 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane114	0.000293284	0.000421784	0.00120433	0.00825491
+# End of Cluster177 Layout.
+# Start of Cluster178 Layout.
+# Total Cluster Stats: X=1.49761 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane115	0.000293284	0.000421784	0.00149761	0.00825491
+# End of Cluster178 Layout.
+# Start of Cluster179 Layout.
+# Total Cluster Stats: X=1.79089 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane116	0.000293284	0.000421784	0.00179089	0.00825491
+# End of Cluster179 Layout.
+# Start of Cluster180 Layout.
+# Total Cluster Stats: X=2.08418 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane117	0.000293284	0.000421784	0.00208418	0.00825491
+# End of Cluster180 Layout.
+# Start of Cluster181 Layout.
+# Total Cluster Stats: X=2.37746 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane118	0.000293284	0.000421784	0.00237746	0.00825491
+# End of Cluster181 Layout.
+# Start of Cluster182 Layout.
+# Total Cluster Stats: X=2.67074 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane119	0.000293284	0.000421784	0.00267074	0.00825491
+# End of Cluster182 Layout.
+# Start of Cluster183 Layout.
+# Total Cluster Stats: X=2.96403 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane120	0.000293284	0.000421784	0.00296403	0.00825491
+# End of Cluster183 Layout.
+# Start of Cluster184 Layout.
+# Total Cluster Stats: X=0.911042 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane121	0.000293284	0.000421784	0.000911042	0.0086767
+# End of Cluster184 Layout.
+# Start of Cluster185 Layout.
+# Total Cluster Stats: X=1.20433 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane122	0.000293284	0.000421784	0.00120433	0.0086767
+# End of Cluster185 Layout.
+# Start of Cluster186 Layout.
+# Total Cluster Stats: X=1.49761 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane123	0.000293284	0.000421784	0.00149761	0.0086767
+# End of Cluster186 Layout.
+# Start of Cluster187 Layout.
+# Total Cluster Stats: X=1.79089 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane124	0.000293284	0.000421784	0.00179089	0.0086767
+# End of Cluster187 Layout.
+# Start of Cluster188 Layout.
+# Total Cluster Stats: X=2.08418 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane125	0.000293284	0.000421784	0.00208418	0.0086767
+# End of Cluster188 Layout.
+# Start of Cluster189 Layout.
+# Total Cluster Stats: X=2.37746 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane126	0.000293284	0.000421784	0.00237746	0.0086767
+# End of Cluster189 Layout.
+# Start of Cluster190 Layout.
+# Total Cluster Stats: X=2.67074 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane127	0.000293284	0.000421784	0.00267074	0.0086767
+# End of Cluster190 Layout.
+# Start of Cluster191 Layout.
+# Total Cluster Stats: X=2.96403 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane128	0.000293284	0.000421784	0.00296403	0.0086767
+# End of Cluster191 Layout.
+# End of Grid8 Layout.
+# Start of Cluster192 Layout.
+# Total Cluster Stats: X=0.911042 Y=7.24298 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+Write_Back7	0.00234627	0.000168363	0.000911042	0.00724298
+# End of Cluster192 Layout.
+# End of Cluster156 Layout.
+# Start of Cluster193 Layout.
+# Total Cluster Stats: X=0 Y=7.24298 W=0.911042mm H=2.52895mm Area=2.30398mm^2
+# Start of Cluster194 Layout.
+# Total Cluster Stats: X=0 Y=8.90474 W=0.911042mm H=0.867194mm Area=0.79005mm^2
+HTC8	0.000911042	0.000867194	0	0.00890474
+# End of Cluster194 Layout.
+# Start of Cluster195 Layout.
+# Total Cluster Stats: X=0 Y=8.47114 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+I_Cache8	0.000911042	0.000433597	0	0.00847114
+# End of Cluster195 Layout.
+# Start of Cluster196 Layout.
+# Total Cluster Stats: X=0 Y=8.03755 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+Decoder8	0.000911042	0.000433597	0	0.00803755
+# End of Cluster196 Layout.
+# Start of Grid9 Layout.  There are 2 components in a 2 by 1 grid.
+# Total Grid Stats: X=0 Y=7.67658 W=0.911042mm H=0.360967mm Area=0.328856mm^2
+# Start of Cluster197 Layout.
+# Total Cluster Stats: X=0 Y=7.67658 W=0.455521mm H=0.360967mm Area=0.164428mm^2
+# Start of Cluster198 Layout.
+# Total Cluster Stats: X=0 Y=7.97281 W=0.455521mm H=0.0647336mm Area=0.0294875mm^2
+Reg7	0.000455521	6.47336e-05	0	0.00797281
+# End of Cluster198 Layout.
+# Start of Cluster199 Layout.
+# Total Cluster Stats: X=0 Y=7.77194 W=0.455521mm H=0.200869mm Area=0.0915mm^2
+ALU7	0.000455521	0.000200869	0	0.00777194
+# End of Cluster199 Layout.
+# Start of Cluster200 Layout.
+# Total Cluster Stats: X=0 Y=7.67658 W=0.455521mm H=0.0953647mm Area=0.0434406mm^2
+D_Cache7	0.000455521	9.53647e-05	0	0.00767658
+# End of Cluster200 Layout.
+# End of Cluster197 Layout.
+# Start of Cluster201 Layout.
+# Total Cluster Stats: X=0.455521 Y=7.67658 W=0.455521mm H=0.360967mm Area=0.164428mm^2
+# Start of Cluster202 Layout.
+# Total Cluster Stats: X=0.455521 Y=7.97281 W=0.455521mm H=0.0647336mm Area=0.0294875mm^2
+Reg8	0.000455521	6.47336e-05	0.000455521	0.00797281
+# End of Cluster202 Layout.
+# Start of Cluster203 Layout.
+# Total Cluster Stats: X=0.455521 Y=7.77194 W=0.455521mm H=0.200869mm Area=0.0915mm^2
+ALU8	0.000455521	0.000200869	0.000455521	0.00777194
+# End of Cluster203 Layout.
+# Start of Cluster204 Layout.
+# Total Cluster Stats: X=0.455521 Y=7.67658 W=0.455521mm H=0.0953647mm Area=0.0434406mm^2
+D_Cache8	0.000455521	9.53647e-05	0.000455521	0.00767658
+# End of Cluster204 Layout.
+# End of Cluster201 Layout.
+# End of Grid9 Layout.
+# Start of Cluster205 Layout.
+# Total Cluster Stats: X=0 Y=7.24298 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+Write_Back8	0.000911042	0.000433597	0	0.00724298
+# End of Cluster205 Layout.
+# End of Cluster193 Layout.
+# End of Cluster155 Layout.
+# Start of Cluster206 Layout.
+# Total Cluster Stats: X=3.25731 Y=7.24298 W=3.25731mm H=2.52895mm Area=8.23759mm^2
+# Start of Cluster207 Layout.
+# Total Cluster Stats: X=4.16835 Y=7.24298 W=2.34627mm H=2.52895mm Area=5.93361mm^2
+# Start of Cluster208 Layout.
+# Total Cluster Stats: X=4.16835 Y=9.43521 W=2.34627mm H=0.336726mm Area=0.79005mm^2
+HTC9	0.00234627	0.000336726	0.00416835	0.00943521
+# End of Cluster208 Layout.
+# Start of Cluster209 Layout.
+# Total Cluster Stats: X=4.16835 Y=9.26685 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+I_Cache9	0.00234627	0.000168363	0.00416835	0.00926685
+# End of Cluster209 Layout.
+# Start of Cluster210 Layout.
+# Total Cluster Stats: X=4.16835 Y=9.09848 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+Decoder9	0.00234627	0.000168363	0.00416835	0.00909848
+# End of Cluster210 Layout.
+# Start of Grid10 Layout.  There are 32 components in a 8 by 4 grid.
+# Total Grid Stats: X=4.16835 Y=7.41135 W=2.34627mm H=1.68714mm Area=3.95848mm^2
+# Start of Cluster211 Layout.
+# Total Cluster Stats: X=4.16835 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane129	0.000293284	0.000421784	0.00416835	0.00741135
+# End of Cluster211 Layout.
+# Start of Cluster212 Layout.
+# Total Cluster Stats: X=4.46164 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane130	0.000293284	0.000421784	0.00446164	0.00741135
+# End of Cluster212 Layout.
+# Start of Cluster213 Layout.
+# Total Cluster Stats: X=4.75492 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane131	0.000293284	0.000421784	0.00475492	0.00741135
+# End of Cluster213 Layout.
+# Start of Cluster214 Layout.
+# Total Cluster Stats: X=5.0482 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane132	0.000293284	0.000421784	0.0050482	0.00741135
+# End of Cluster214 Layout.
+# Start of Cluster215 Layout.
+# Total Cluster Stats: X=5.34149 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane133	0.000293284	0.000421784	0.00534149	0.00741135
+# End of Cluster215 Layout.
+# Start of Cluster216 Layout.
+# Total Cluster Stats: X=5.63477 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane134	0.000293284	0.000421784	0.00563477	0.00741135
+# End of Cluster216 Layout.
+# Start of Cluster217 Layout.
+# Total Cluster Stats: X=5.92806 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane135	0.000293284	0.000421784	0.00592806	0.00741135
+# End of Cluster217 Layout.
+# Start of Cluster218 Layout.
+# Total Cluster Stats: X=6.22134 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane136	0.000293284	0.000421784	0.00622134	0.00741135
+# End of Cluster218 Layout.
+# Start of Cluster219 Layout.
+# Total Cluster Stats: X=4.16835 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane137	0.000293284	0.000421784	0.00416835	0.00783313
+# End of Cluster219 Layout.
+# Start of Cluster220 Layout.
+# Total Cluster Stats: X=4.46164 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane138	0.000293284	0.000421784	0.00446164	0.00783313
+# End of Cluster220 Layout.
+# Start of Cluster221 Layout.
+# Total Cluster Stats: X=4.75492 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane139	0.000293284	0.000421784	0.00475492	0.00783313
+# End of Cluster221 Layout.
+# Start of Cluster222 Layout.
+# Total Cluster Stats: X=5.0482 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane140	0.000293284	0.000421784	0.0050482	0.00783313
+# End of Cluster222 Layout.
+# Start of Cluster223 Layout.
+# Total Cluster Stats: X=5.34149 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane141	0.000293284	0.000421784	0.00534149	0.00783313
+# End of Cluster223 Layout.
+# Start of Cluster224 Layout.
+# Total Cluster Stats: X=5.63477 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane142	0.000293284	0.000421784	0.00563477	0.00783313
+# End of Cluster224 Layout.
+# Start of Cluster225 Layout.
+# Total Cluster Stats: X=5.92806 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane143	0.000293284	0.000421784	0.00592806	0.00783313
+# End of Cluster225 Layout.
+# Start of Cluster226 Layout.
+# Total Cluster Stats: X=6.22134 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane144	0.000293284	0.000421784	0.00622134	0.00783313
+# End of Cluster226 Layout.
+# Start of Cluster227 Layout.
+# Total Cluster Stats: X=4.16835 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane145	0.000293284	0.000421784	0.00416835	0.00825491
+# End of Cluster227 Layout.
+# Start of Cluster228 Layout.
+# Total Cluster Stats: X=4.46164 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane146	0.000293284	0.000421784	0.00446164	0.00825491
+# End of Cluster228 Layout.
+# Start of Cluster229 Layout.
+# Total Cluster Stats: X=4.75492 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane147	0.000293284	0.000421784	0.00475492	0.00825491
+# End of Cluster229 Layout.
+# Start of Cluster230 Layout.
+# Total Cluster Stats: X=5.0482 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane148	0.000293284	0.000421784	0.0050482	0.00825491
+# End of Cluster230 Layout.
+# Start of Cluster231 Layout.
+# Total Cluster Stats: X=5.34149 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane149	0.000293284	0.000421784	0.00534149	0.00825491
+# End of Cluster231 Layout.
+# Start of Cluster232 Layout.
+# Total Cluster Stats: X=5.63477 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane150	0.000293284	0.000421784	0.00563477	0.00825491
+# End of Cluster232 Layout.
+# Start of Cluster233 Layout.
+# Total Cluster Stats: X=5.92806 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane151	0.000293284	0.000421784	0.00592806	0.00825491
+# End of Cluster233 Layout.
+# Start of Cluster234 Layout.
+# Total Cluster Stats: X=6.22134 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane152	0.000293284	0.000421784	0.00622134	0.00825491
+# End of Cluster234 Layout.
+# Start of Cluster235 Layout.
+# Total Cluster Stats: X=4.16835 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane153	0.000293284	0.000421784	0.00416835	0.0086767
+# End of Cluster235 Layout.
+# Start of Cluster236 Layout.
+# Total Cluster Stats: X=4.46164 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane154	0.000293284	0.000421784	0.00446164	0.0086767
+# End of Cluster236 Layout.
+# Start of Cluster237 Layout.
+# Total Cluster Stats: X=4.75492 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane155	0.000293284	0.000421784	0.00475492	0.0086767
+# End of Cluster237 Layout.
+# Start of Cluster238 Layout.
+# Total Cluster Stats: X=5.0482 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane156	0.000293284	0.000421784	0.0050482	0.0086767
+# End of Cluster238 Layout.
+# Start of Cluster239 Layout.
+# Total Cluster Stats: X=5.34149 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane157	0.000293284	0.000421784	0.00534149	0.0086767
+# End of Cluster239 Layout.
+# Start of Cluster240 Layout.
+# Total Cluster Stats: X=5.63477 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane158	0.000293284	0.000421784	0.00563477	0.0086767
+# End of Cluster240 Layout.
+# Start of Cluster241 Layout.
+# Total Cluster Stats: X=5.92806 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane159	0.000293284	0.000421784	0.00592806	0.0086767
+# End of Cluster241 Layout.
+# Start of Cluster242 Layout.
+# Total Cluster Stats: X=6.22134 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane160	0.000293284	0.000421784	0.00622134	0.0086767
+# End of Cluster242 Layout.
+# End of Grid10 Layout.
+# Start of Cluster243 Layout.
+# Total Cluster Stats: X=4.16835 Y=7.24298 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+Write_Back9	0.00234627	0.000168363	0.00416835	0.00724298
+# End of Cluster243 Layout.
+# End of Cluster207 Layout.
+# Start of Cluster244 Layout.
+# Total Cluster Stats: X=3.25731 Y=7.24298 W=0.911042mm H=2.52895mm Area=2.30398mm^2
+# Start of Cluster245 Layout.
+# Total Cluster Stats: X=3.25731 Y=8.90474 W=0.911042mm H=0.867194mm Area=0.79005mm^2
+HTC10	0.000911042	0.000867194	0.00325731	0.00890474
+# End of Cluster245 Layout.
+# Start of Cluster246 Layout.
+# Total Cluster Stats: X=3.25731 Y=8.47114 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+I_Cache10	0.000911042	0.000433597	0.00325731	0.00847114
+# End of Cluster246 Layout.
+# Start of Cluster247 Layout.
+# Total Cluster Stats: X=3.25731 Y=8.03755 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+Decoder10	0.000911042	0.000433597	0.00325731	0.00803755
+# End of Cluster247 Layout.
+# Start of Grid11 Layout.  There are 2 components in a 2 by 1 grid.
+# Total Grid Stats: X=3.25731 Y=7.67658 W=0.911042mm H=0.360967mm Area=0.328856mm^2
+# Start of Cluster248 Layout.
+# Total Cluster Stats: X=3.25731 Y=7.67658 W=0.455521mm H=0.360967mm Area=0.164428mm^2
+# Start of Cluster249 Layout.
+# Total Cluster Stats: X=3.25731 Y=7.97281 W=0.455521mm H=0.0647336mm Area=0.0294875mm^2
+Reg9	0.000455521	6.47336e-05	0.00325731	0.00797281
+# End of Cluster249 Layout.
+# Start of Cluster250 Layout.
+# Total Cluster Stats: X=3.25731 Y=7.77194 W=0.455521mm H=0.200869mm Area=0.0915mm^2
+ALU9	0.000455521	0.000200869	0.00325731	0.00777194
+# End of Cluster250 Layout.
+# Start of Cluster251 Layout.
+# Total Cluster Stats: X=3.25731 Y=7.67658 W=0.455521mm H=0.0953647mm Area=0.0434406mm^2
+D_Cache9	0.000455521	9.53647e-05	0.00325731	0.00767658
+# End of Cluster251 Layout.
+# End of Cluster248 Layout.
+# Start of Cluster252 Layout.
+# Total Cluster Stats: X=3.71283 Y=7.67658 W=0.455521mm H=0.360967mm Area=0.164428mm^2
+# Start of Cluster253 Layout.
+# Total Cluster Stats: X=3.71283 Y=7.97281 W=0.455521mm H=0.0647336mm Area=0.0294875mm^2
+Reg10	0.000455521	6.47336e-05	0.00371283	0.00797281
+# End of Cluster253 Layout.
+# Start of Cluster254 Layout.
+# Total Cluster Stats: X=3.71283 Y=7.77194 W=0.455521mm H=0.200869mm Area=0.0915mm^2
+ALU10	0.000455521	0.000200869	0.00371283	0.00777194
+# End of Cluster254 Layout.
+# Start of Cluster255 Layout.
+# Total Cluster Stats: X=3.71283 Y=7.67658 W=0.455521mm H=0.0953647mm Area=0.0434406mm^2
+D_Cache10	0.000455521	9.53647e-05	0.00371283	0.00767658
+# End of Cluster255 Layout.
+# End of Cluster252 Layout.
+# End of Grid11 Layout.
+# Start of Cluster256 Layout.
+# Total Cluster Stats: X=3.25731 Y=7.24298 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+Write_Back10	0.000911042	0.000433597	0.00325731	0.00724298
+# End of Cluster256 Layout.
+# End of Cluster244 Layout.
+# End of Cluster206 Layout.
+# Start of Cluster257 Layout.
+# Total Cluster Stats: X=6.51462 Y=7.24298 W=3.25731mm H=2.52895mm Area=8.23759mm^2
+# Start of Cluster258 Layout.
+# Total Cluster Stats: X=7.42567 Y=7.24298 W=2.34627mm H=2.52895mm Area=5.93361mm^2
+# Start of Cluster259 Layout.
+# Total Cluster Stats: X=7.42567 Y=9.43521 W=2.34627mm H=0.336726mm Area=0.79005mm^2
+HTC11	0.00234627	0.000336726	0.00742567	0.00943521
+# End of Cluster259 Layout.
+# Start of Cluster260 Layout.
+# Total Cluster Stats: X=7.42567 Y=9.26685 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+I_Cache11	0.00234627	0.000168363	0.00742567	0.00926685
+# End of Cluster260 Layout.
+# Start of Cluster261 Layout.
+# Total Cluster Stats: X=7.42567 Y=9.09848 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+Decoder11	0.00234627	0.000168363	0.00742567	0.00909848
+# End of Cluster261 Layout.
+# Start of Grid12 Layout.  There are 32 components in a 8 by 4 grid.
+# Total Grid Stats: X=7.42567 Y=7.41135 W=2.34627mm H=1.68714mm Area=3.95848mm^2
+# Start of Cluster262 Layout.
+# Total Cluster Stats: X=7.42567 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane161	0.000293284	0.000421784	0.00742567	0.00741135
+# End of Cluster262 Layout.
+# Start of Cluster263 Layout.
+# Total Cluster Stats: X=7.71895 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane162	0.000293284	0.000421784	0.00771895	0.00741135
+# End of Cluster263 Layout.
+# Start of Cluster264 Layout.
+# Total Cluster Stats: X=8.01223 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane163	0.000293284	0.000421784	0.00801223	0.00741135
+# End of Cluster264 Layout.
+# Start of Cluster265 Layout.
+# Total Cluster Stats: X=8.30552 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane164	0.000293284	0.000421784	0.00830552	0.00741135
+# End of Cluster265 Layout.
+# Start of Cluster266 Layout.
+# Total Cluster Stats: X=8.5988 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane165	0.000293284	0.000421784	0.0085988	0.00741135
+# End of Cluster266 Layout.
+# Start of Cluster267 Layout.
+# Total Cluster Stats: X=8.89208 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane166	0.000293284	0.000421784	0.00889208	0.00741135
+# End of Cluster267 Layout.
+# Start of Cluster268 Layout.
+# Total Cluster Stats: X=9.18537 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane167	0.000293284	0.000421784	0.00918537	0.00741135
+# End of Cluster268 Layout.
+# Start of Cluster269 Layout.
+# Total Cluster Stats: X=9.47865 Y=7.41135 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane168	0.000293284	0.000421784	0.00947865	0.00741135
+# End of Cluster269 Layout.
+# Start of Cluster270 Layout.
+# Total Cluster Stats: X=7.42567 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane169	0.000293284	0.000421784	0.00742567	0.00783313
+# End of Cluster270 Layout.
+# Start of Cluster271 Layout.
+# Total Cluster Stats: X=7.71895 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane170	0.000293284	0.000421784	0.00771895	0.00783313
+# End of Cluster271 Layout.
+# Start of Cluster272 Layout.
+# Total Cluster Stats: X=8.01223 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane171	0.000293284	0.000421784	0.00801223	0.00783313
+# End of Cluster272 Layout.
+# Start of Cluster273 Layout.
+# Total Cluster Stats: X=8.30552 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane172	0.000293284	0.000421784	0.00830552	0.00783313
+# End of Cluster273 Layout.
+# Start of Cluster274 Layout.
+# Total Cluster Stats: X=8.5988 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane173	0.000293284	0.000421784	0.0085988	0.00783313
+# End of Cluster274 Layout.
+# Start of Cluster275 Layout.
+# Total Cluster Stats: X=8.89208 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane174	0.000293284	0.000421784	0.00889208	0.00783313
+# End of Cluster275 Layout.
+# Start of Cluster276 Layout.
+# Total Cluster Stats: X=9.18537 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane175	0.000293284	0.000421784	0.00918537	0.00783313
+# End of Cluster276 Layout.
+# Start of Cluster277 Layout.
+# Total Cluster Stats: X=9.47865 Y=7.83313 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane176	0.000293284	0.000421784	0.00947865	0.00783313
+# End of Cluster277 Layout.
+# Start of Cluster278 Layout.
+# Total Cluster Stats: X=7.42567 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane177	0.000293284	0.000421784	0.00742567	0.00825491
+# End of Cluster278 Layout.
+# Start of Cluster279 Layout.
+# Total Cluster Stats: X=7.71895 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane178	0.000293284	0.000421784	0.00771895	0.00825491
+# End of Cluster279 Layout.
+# Start of Cluster280 Layout.
+# Total Cluster Stats: X=8.01223 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane179	0.000293284	0.000421784	0.00801223	0.00825491
+# End of Cluster280 Layout.
+# Start of Cluster281 Layout.
+# Total Cluster Stats: X=8.30552 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane180	0.000293284	0.000421784	0.00830552	0.00825491
+# End of Cluster281 Layout.
+# Start of Cluster282 Layout.
+# Total Cluster Stats: X=8.5988 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane181	0.000293284	0.000421784	0.0085988	0.00825491
+# End of Cluster282 Layout.
+# Start of Cluster283 Layout.
+# Total Cluster Stats: X=8.89208 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane182	0.000293284	0.000421784	0.00889208	0.00825491
+# End of Cluster283 Layout.
+# Start of Cluster284 Layout.
+# Total Cluster Stats: X=9.18537 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane183	0.000293284	0.000421784	0.00918537	0.00825491
+# End of Cluster284 Layout.
+# Start of Cluster285 Layout.
+# Total Cluster Stats: X=9.47865 Y=8.25491 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane184	0.000293284	0.000421784	0.00947865	0.00825491
+# End of Cluster285 Layout.
+# Start of Cluster286 Layout.
+# Total Cluster Stats: X=7.42567 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane185	0.000293284	0.000421784	0.00742567	0.0086767
+# End of Cluster286 Layout.
+# Start of Cluster287 Layout.
+# Total Cluster Stats: X=7.71895 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane186	0.000293284	0.000421784	0.00771895	0.0086767
+# End of Cluster287 Layout.
+# Start of Cluster288 Layout.
+# Total Cluster Stats: X=8.01223 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane187	0.000293284	0.000421784	0.00801223	0.0086767
+# End of Cluster288 Layout.
+# Start of Cluster289 Layout.
+# Total Cluster Stats: X=8.30552 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane188	0.000293284	0.000421784	0.00830552	0.0086767
+# End of Cluster289 Layout.
+# Start of Cluster290 Layout.
+# Total Cluster Stats: X=8.5988 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane189	0.000293284	0.000421784	0.0085988	0.0086767
+# End of Cluster290 Layout.
+# Start of Cluster291 Layout.
+# Total Cluster Stats: X=8.89208 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane190	0.000293284	0.000421784	0.00889208	0.0086767
+# End of Cluster291 Layout.
+# Start of Cluster292 Layout.
+# Total Cluster Stats: X=9.18537 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane191	0.000293284	0.000421784	0.00918537	0.0086767
+# End of Cluster292 Layout.
+# Start of Cluster293 Layout.
+# Total Cluster Stats: X=9.47865 Y=8.6767 W=0.293284mm H=0.421784mm Area=0.123703mm^2
+Lane192	0.000293284	0.000421784	0.00947865	0.0086767
+# End of Cluster293 Layout.
+# End of Grid12 Layout.
+# Start of Cluster294 Layout.
+# Total Cluster Stats: X=7.42567 Y=7.24298 W=2.34627mm H=0.168363mm Area=0.395025mm^2
+Write_Back11	0.00234627	0.000168363	0.00742567	0.00724298
+# End of Cluster294 Layout.
+# End of Cluster258 Layout.
+# Start of Cluster295 Layout.
+# Total Cluster Stats: X=6.51462 Y=7.24298 W=0.911042mm H=2.52895mm Area=2.30398mm^2
+# Start of Cluster296 Layout.
+# Total Cluster Stats: X=6.51462 Y=8.90474 W=0.911042mm H=0.867194mm Area=0.79005mm^2
+HTC12	0.000911042	0.000867194	0.00651462	0.00890474
+# End of Cluster296 Layout.
+# Start of Cluster297 Layout.
+# Total Cluster Stats: X=6.51462 Y=8.47114 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+I_Cache12	0.000911042	0.000433597	0.00651462	0.00847114
+# End of Cluster297 Layout.
+# Start of Cluster298 Layout.
+# Total Cluster Stats: X=6.51462 Y=8.03755 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+Decoder12	0.000911042	0.000433597	0.00651462	0.00803755
+# End of Cluster298 Layout.
+# Start of Grid13 Layout.  There are 2 components in a 2 by 1 grid.
+# Total Grid Stats: X=6.51462 Y=7.67658 W=0.911042mm H=0.360967mm Area=0.328856mm^2
+# Start of Cluster299 Layout.
+# Total Cluster Stats: X=6.51462 Y=7.67658 W=0.455521mm H=0.360967mm Area=0.164428mm^2
+# Start of Cluster300 Layout.
+# Total Cluster Stats: X=6.51462 Y=7.97281 W=0.455521mm H=0.0647336mm Area=0.0294875mm^2
+Reg11	0.000455521	6.47336e-05	0.00651462	0.00797281
+# End of Cluster300 Layout.
+# Start of Cluster301 Layout.
+# Total Cluster Stats: X=6.51462 Y=7.77194 W=0.455521mm H=0.200869mm Area=0.0915mm^2
+ALU11	0.000455521	0.000200869	0.00651462	0.00777194
+# End of Cluster301 Layout.
+# Start of Cluster302 Layout.
+# Total Cluster Stats: X=6.51462 Y=7.67658 W=0.455521mm H=0.0953647mm Area=0.0434406mm^2
+D_Cache11	0.000455521	9.53647e-05	0.00651462	0.00767658
+# End of Cluster302 Layout.
+# End of Cluster299 Layout.
+# Start of Cluster303 Layout.
+# Total Cluster Stats: X=6.97014 Y=7.67658 W=0.455521mm H=0.360967mm Area=0.164428mm^2
+# Start of Cluster304 Layout.
+# Total Cluster Stats: X=6.97014 Y=7.97281 W=0.455521mm H=0.0647336mm Area=0.0294875mm^2
+Reg12	0.000455521	6.47336e-05	0.00697014	0.00797281
+# End of Cluster304 Layout.
+# Start of Cluster305 Layout.
+# Total Cluster Stats: X=6.97014 Y=7.77194 W=0.455521mm H=0.200869mm Area=0.0915mm^2
+ALU12	0.000455521	0.000200869	0.00697014	0.00777194
+# End of Cluster305 Layout.
+# Start of Cluster306 Layout.
+# Total Cluster Stats: X=6.97014 Y=7.67658 W=0.455521mm H=0.0953647mm Area=0.0434406mm^2
+D_Cache12	0.000455521	9.53647e-05	0.00697014	0.00767658
+# End of Cluster306 Layout.
+# End of Cluster303 Layout.
+# End of Grid13 Layout.
+# Start of Cluster307 Layout.
+# Total Cluster Stats: X=6.51462 Y=7.24298 W=0.911042mm H=0.433597mm Area=0.395025mm^2
+Write_Back12	0.000911042	0.000433597	0.00651462	0.00724298
+# End of Cluster307 Layout.
+# End of Cluster295 Layout.
+# End of Cluster257 Layout.
+# End of Grid1 Layout.
+# Start of Cluster308 Layout.
+# Total Cluster Stats: X=0 Y=0 W=9.77194mm H=4.71403mm Area=46.0652mm^2
+L2_Cache1	0.00977194	0.00471403	0	0
+# End of Cluster308 Layout.
+# End of Cluster1 Layout.

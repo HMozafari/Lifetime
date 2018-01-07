@@ -1,0 +1,157 @@
+/* -*- Mode: C ; indent-tabs-mode: nil ; c-file-style: "stroustrup" -*-
+
+   Rapid Prototyping Floorplanner Project
+   Author: Greg Faust
+
+   File:   Main.c     Parse the command line arguments, and call the appropriate functions to do the work.
+
+*/
+
+#include <iostream>
+#include <cstdlib>
+#include <cmath>
+#include "MathUtil.hh"
+#include "Floorplan.hh"
+
+
+
+void generateSIMT65nm ()
+{
+
+    // Areas from McPAT.
+    int Num_of_Lanes                    = 32;
+    int Num_of_Cores                    = 6;
+    int L2_Cache_Size                   = 1; //MB
+
+
+    double ALU_Area                     = 0.0915;
+    double Reg_File_Area                = 0.9436;
+    double Reg_File_Area_per_Lane       = Reg_File_Area;
+    //double Lane_Area                    = 0.1319;
+    double Skeleton_Area                = 1.5801;
+    double Skeleton_Area_per_Lane       = Skeleton_Area/Num_of_Lanes;
+    double D_Cache_Area                 = 1.3901;
+    double D_Cache_Area_per_Lane        = D_Cache_Area/Num_of_Lanes;
+    double L2$_Area_per_MB              = 46.0652/4;
+    double HTC_Area                     = (Skeleton_Area_per_Lane/4) * Num_of_Lanes;
+    double I_Cache_Area                 = (Skeleton_Area_per_Lane/4) * Num_of_Lanes;
+    double Decoder_Area                 = (Skeleton_Area_per_Lane/4) * Num_of_Lanes;
+    double Write_Back_Area              = (Skeleton_Area_per_Lane/4) * Num_of_Lanes;
+
+
+
+    geogLayout * HTC = new geogLayout();
+    HTC->addComponentCluster("HTC", 1, HTC_Area, 20., 1., Top);
+
+
+    geogLayout * I_Cache = new geogLayout();
+    I_Cache->addComponentCluster("I_Cache", 1, I_Cache_Area, 20., 1., Top);
+
+
+    geogLayout * Decoder = new geogLayout();
+    I_Cache->addComponentCluster("Decoder", 1, Decoder_Area, 20., 1., Top);
+
+    geogLayout * Reg = new geogLayout();
+    Reg->addComponentCluster("Reg", 1, Reg_File_Area_per_Lane, 20., 1., Top);
+
+    geogLayout * ALU = new geogLayout();
+    ALU->addComponentCluster("ALU", 1, ALU_Area, 20., 1., Top);
+
+    geogLayout * D_Cache_per_Lane = new geogLayout();
+    D_Cache_per_Lane->addComponentCluster("D_Cache", 1, D_Cache_Area_per_Lane, 20., 1., Top);
+
+    // Lane
+    geogLayout * Lane = new geogLayout();
+    Lane->addComponent(Reg, 1, Top);
+    Lane->addComponent(ALU, 1, Center);
+    //Lane->addComponent(D_Cache_per_Lane, 1, Bottom);
+
+
+    geogLayout * Write_Back = new geogLayout();
+    Write_Back->addComponentCluster("Write_Back", 1, Write_Back_Area, 20., 1., Top);
+
+    geogLayout * L2_Cache = new geogLayout();
+    L2_Cache->addComponentCluster("L2_Cache", 1, L2$_Area_per_MB * Num_of_Lanes, 20., 1., Top);
+
+    
+
+    // Core
+    geogLayout * Core = new geogLayout();
+    Core->addComponent(HTC, 1, Top);
+    Core->addComponent(I_Cache, 1, Top);
+    Core->addComponent(Decoder, 1, Top);
+    Core->addComponent(Lane, Num_of_Lanes, Center);
+    Core->addComponent(Write_Back, 1, Bottom);
+
+    //SIMT Processor
+    geogLayout * MC = new geogLayout();
+    MC->addComponent(Core, Num_of_Cores, Top);
+    MC->addComponent(L2_Cache, 1, Bottom);
+    //Core->addComponent(Decoder, 1, Top);
+    //Core->addComponent(ALU, 32, Center);
+    //Core->addComponent(Write_Back, 1, Bottom);
+
+
+    bool success = MC->layout(AspectRatio, 1);
+    if (!success) cout << "Unable to layout specified CMP configuration.";
+    else 
+    {
+        setNameMode(false);
+        ostream& HSOut = outputHotSpotHeader("SIMT65.flp");
+        MC->outputHotSpotLayout(HSOut);
+        outputHotSpotFooter(HSOut);
+        setNameMode(true);
+    }
+    delete MC;
+
+
+}
+
+
+int main(int argc, char* argv[])
+{
+  string usageString = "Usage:\nArchFP [-h] [-v]\n-h     Print out this help information.\n-v     Output verbose layout information to stdout.\n"
+    "ArchFP does not take in declarative specifications for floorplans.\n"
+    "To produce a different floorplan, please edit Main.cc and recompile.\n";
+  string copyrightString = "ArchFP: A pre-RTL rapid prototyping floorplanner.\nAuthor: Greg Faust (gf4ea@virginia.edu).\n";
+
+  for (int x = 1; x < argc; x++)
+    {
+      string arg = string(argv[x]);
+      if (arg == "-h")
+        {
+          cout << copyrightString;
+          cout << usageString;
+          return 0;
+        }
+      else if (arg == "-v")
+        {
+          verbose = true;
+        }
+      else
+        {
+          cout << copyrightString;
+          cout << usageString;
+          return 1;
+        }
+    }
+  cout << copyrightString;
+
+  ///////////////////////////////////////////////////////
+  // Look at these subroutines above for examples of how to build floorplans using this tool.
+  //////////////////////////////////////////////////////
+
+  //generateTRIPS_Examples();
+  //generateCheckerBoard_Examples();
+  //generateMcPAT_Examples();
+  //generateFixedLayout_Example();
+
+  // Example code to generate floorplan in SoC2012 Open Source Tool submission.
+  generateSIMT65nm ();
+  //generatePenryn45nm();
+  //generate8corePenrynCMP();
+
+  return 0;
+}
+
+

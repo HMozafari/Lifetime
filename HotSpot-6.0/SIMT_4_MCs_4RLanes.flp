@@ -1,0 +1,93 @@
+# FloorPlan output from ArchFP: UVA's Rapid Prototyping FloorPlanner.
+# Formatted for Input to HotSpot.
+# Line Format: <unit-name>\t<width>\t<height>\t<left-x>\t<bottom-y>
+# all dimensions are in meters
+# comment lines begin with a '#'
+# comments and empty lines are ignored
+
+# Start of Cluster1 Layout.
+# Total Cluster Stats: X=0 Y=0 W=3.86973mm H=3.86973mm Area=14.9748mm^2
+# Start of Grid1 Layout.  There are 2 components in a 2 by 1 grid.
+# Total Grid Stats: X=0 Y=2.97599 W=3.86973mm H=0.893738mm Area=3.45853mm^2
+# Start of Cluster2 Layout.
+# Total Cluster Stats: X=0 Y=2.97599 W=1.93487mm H=0.893738mm Area=1.72926mm^2
+# Start of Cluster3 Layout.
+# Total Cluster Stats: X=0 Y=3.84421 W=1.93487mm H=0.0255202mm Area=0.0493781mm^2
+HTC1	0.00193487	2.55202e-05	0	0.00384421
+# End of Cluster3 Layout.
+# Start of Cluster4 Layout.
+# Total Cluster Stats: X=0 Y=3.64005 W=1.93487mm H=0.204161mm Area=0.395025mm^2
+I_Cache1	0.00193487	0.000204161	0	0.00364005
+# End of Cluster4 Layout.
+# Start of Cluster5 Layout.
+# Total Cluster Stats: X=0 Y=3.43589 W=1.93487mm H=0.204161mm Area=0.395025mm^2
+Decoder1	0.00193487	0.000204161	0	0.00343589
+# End of Cluster5 Layout.
+# Start of Grid2 Layout.  There are 4 components in a 4 by 1 grid.
+# Total Grid Stats: X=0 Y=3.18016 W=1.93487mm H=0.255734mm Area=0.49481mm^2
+# Start of Cluster6 Layout.
+# Total Cluster Stats: X=0 Y=3.18016 W=0.483717mm H=0.255734mm Area=0.123703mm^2
+Lane1	0.000483717	0.000255734	0	0.00318016
+# End of Cluster6 Layout.
+# Start of Cluster7 Layout.
+# Total Cluster Stats: X=0.483717 Y=3.18016 W=0.483717mm H=0.255734mm Area=0.123703mm^2
+Lane2	0.000483717	0.000255734	0.000483717	0.00318016
+# End of Cluster7 Layout.
+# Start of Cluster8 Layout.
+# Total Cluster Stats: X=0.967433 Y=3.18016 W=0.483717mm H=0.255734mm Area=0.123703mm^2
+Lane3	0.000483717	0.000255734	0.000967433	0.00318016
+# End of Cluster8 Layout.
+# Start of Cluster9 Layout.
+# Total Cluster Stats: X=1.45115 Y=3.18016 W=0.483717mm H=0.255734mm Area=0.123703mm^2
+Lane4	0.000483717	0.000255734	0.00145115	0.00318016
+# End of Cluster9 Layout.
+# End of Grid2 Layout.
+# Start of Cluster10 Layout.
+# Total Cluster Stats: X=0 Y=2.97599 W=1.93487mm H=0.204161mm Area=0.395025mm^2
+Write_Back1	0.00193487	0.000204161	0	0.00297599
+# End of Cluster10 Layout.
+# End of Cluster2 Layout.
+# Start of Cluster11 Layout.
+# Total Cluster Stats: X=1.93487 Y=2.97599 W=1.93487mm H=0.893738mm Area=1.72926mm^2
+# Start of Cluster12 Layout.
+# Total Cluster Stats: X=1.93487 Y=3.84421 W=1.93487mm H=0.0255202mm Area=0.0493781mm^2
+HTC2	0.00193487	2.55202e-05	0.00193487	0.00384421
+# End of Cluster12 Layout.
+# Start of Cluster13 Layout.
+# Total Cluster Stats: X=1.93487 Y=3.64005 W=1.93487mm H=0.204161mm Area=0.395025mm^2
+I_Cache2	0.00193487	0.000204161	0.00193487	0.00364005
+# End of Cluster13 Layout.
+# Start of Cluster14 Layout.
+# Total Cluster Stats: X=1.93487 Y=3.43589 W=1.93487mm H=0.204161mm Area=0.395025mm^2
+Decoder2	0.00193487	0.000204161	0.00193487	0.00343589
+# End of Cluster14 Layout.
+# Start of Grid3 Layout.  There are 4 components in a 4 by 1 grid.
+# Total Grid Stats: X=1.93487 Y=3.18016 W=1.93487mm H=0.255734mm Area=0.49481mm^2
+# Start of Cluster15 Layout.
+# Total Cluster Stats: X=1.93487 Y=3.18016 W=0.483717mm H=0.255734mm Area=0.123703mm^2
+Lane5	0.000483717	0.000255734	0.00193487	0.00318016
+# End of Cluster15 Layout.
+# Start of Cluster16 Layout.
+# Total Cluster Stats: X=2.41858 Y=3.18016 W=0.483717mm H=0.255734mm Area=0.123703mm^2
+Lane6	0.000483717	0.000255734	0.00241858	0.00318016
+# End of Cluster16 Layout.
+# Start of Cluster17 Layout.
+# Total Cluster Stats: X=2.9023 Y=3.18016 W=0.483717mm H=0.255734mm Area=0.123703mm^2
+Lane7	0.000483717	0.000255734	0.0029023	0.00318016
+# End of Cluster17 Layout.
+# Start of Cluster18 Layout.
+# Total Cluster Stats: X=3.38602 Y=3.18016 W=0.483717mm H=0.255734mm Area=0.123703mm^2
+Lane8	0.000483717	0.000255734	0.00338602	0.00318016
+# End of Cluster18 Layout.
+# End of Grid3 Layout.
+# Start of Cluster19 Layout.
+# Total Cluster Stats: X=1.93487 Y=2.97599 W=1.93487mm H=0.204161mm Area=0.395025mm^2
+Write_Back2	0.00193487	0.000204161	0.00193487	0.00297599
+# End of Cluster19 Layout.
+# End of Cluster11 Layout.
+# End of Grid1 Layout.
+# Start of Cluster20 Layout.
+# Total Cluster Stats: X=0 Y=0 W=3.86973mm H=2.97599mm Area=11.5163mm^2
+L2_Cache1	0.00386973	0.00297599	0	0
+# End of Cluster20 Layout.
+# End of Cluster1 Layout.
